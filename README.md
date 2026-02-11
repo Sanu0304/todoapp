@@ -58,9 +58,3 @@ When a task is marked complete, the state updates and the UI rebuilds showing th
 
 ### Task List Screen
 
-
----
-
-## Author
-Sanu Thomas  
-Flutter Developer (Fresher)
