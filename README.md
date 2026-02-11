@@ -51,10 +51,9 @@ When a task is marked complete, the state updates and the UI rebuilds showing th
 ## Screenshots
 
 ### Onboarding Screen
-
-
+![Splash SCreen]()
 ### Add Task Screen
-
+![Add Task]()
 
 ### Task List Screen
-
+![Task List]()
