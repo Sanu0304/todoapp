@@ -51,7 +51,7 @@ When a task is marked complete, the state updates and the UI rebuilds showing th
 ## Screenshots
 
 ### Onboarding Screen
-![Splash SCreen]()
+![Splash SCreen](screenshot/todoappsplashscreen.png)
 ### Add Task Screen
 ![Add Task](screenshot/todoaddtask.png)
 
